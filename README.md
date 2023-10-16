@@ -22,3 +22,6 @@ The project just needs you to use the following commands :
     - docker container run -it -p 3000:3000 double
 
 Then it's available locally (127.0.0.1:3000) with your navigator or you can also test it using curl.
+
+
+Plus : Trivy scan reports are available as results.json and results_double.json.
